@@ -1,5 +1,6 @@
-Here are some text.
-Here are some text.
-Here are some text.
-Here are some text.
-Here are some text.
+
+Hello,
+This text is located in a file called test.txt.
+
+Br,
+Anne

@@ -6,3 +6,5 @@ console.log(x);
 
 for (var i=0; i<100; i++){
 console.log("Count " +i);}
+
+for (var i=0; i<100; i++){console.log("Welcome to the course! "+i);} 
